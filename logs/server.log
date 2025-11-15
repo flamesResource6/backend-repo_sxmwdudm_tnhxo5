@@ -5,3 +5,23 @@ INFO:     Started server process [223]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     172.20.0.1:52172 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:54998 - "GET /api/discussions/latest HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55014 - "GET /api/goals HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54996 - "GET /api/groups HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55024 - "GET /api/notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55030 - "GET /api/sessions/upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54998 - "GET /api/discussions/latest HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55040 - "GET /api/goals HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54996 - "GET /api/sessions/upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55014 - "GET /api/groups HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55024 - "GET /api/notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53730 - "GET /api/discussions/latest HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53742 - "GET /api/goals HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53716 - "GET /api/groups HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53752 - "GET /api/sessions/upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53748 - "GET /api/notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53730 - "GET /api/discussions/latest HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53742 - "GET /api/goals HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53752 - "GET /api/sessions/upcoming HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53716 - "GET /api/groups HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53748 - "GET /api/notes HTTP/1.1" 200 OK
